@@ -1,0 +1,8 @@
+{
+  "paymentTransactionReference" : "PYTR9301",
+  "cardCollectionsPaymentNotificationRecord" : {},
+  "cardCollectionsProcessingRecord" : {},
+  "cardCollectionsProcessingReference" : "CCPE5209",
+  "cardCollectionsPaymentNotificationReference" : "CCPN3020",
+  "paymentTransaction" : "StandardPayment"
+}

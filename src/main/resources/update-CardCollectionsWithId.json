@@ -1,0 +1,17 @@
+{
+  "productServiceReference" : "SERE32429",
+  "paymentTransactionReference" : "PTRE4545",
+  "cardAccountLimits" : "POS",
+  "taxReference" : "TXRE3030",
+  "cardType" : "Credit",
+  "cardCollectionsProcessingReference" : "CCPE5209",
+  "configurationOptions" : "CardScheme",
+  "cardCollectionsProcessingSchedule" : "ActionDetails",
+  "statementReference" : "STRE08920",
+  "productInstanceReference" : "PIRE2030",
+  "cardAccountStatus" : "Active",
+  "transactionRecordReference" : "TRRE9292",
+  "billingTransactionReference" : "BTRE8920",
+  "customerReference" : "CURE3242",
+  "cardCollectionsProcessingRecord" : {}
+}

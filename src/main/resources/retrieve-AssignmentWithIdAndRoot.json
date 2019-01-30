@@ -1,0 +1,12 @@
+{
+  "cardCollectionsAssignmentDecisionReference" : "CCAD2012",
+  "customerCreditRatingAssessment" : "CreditRating",
+  "collectionAgencyReference" : "CCAR2307",
+  "customerReference" : "CURE3242",
+  "cardCollectionsProcessingRecord" : {},
+  "cardCollectionsProcessingReference" : "CCPE5209",
+  "collectionAgencyAgreement" : "TermsAndConditions",
+  "customerCreditRatingAssessmentReference" : "CCRA7298",
+  "cardCollectionsAssignmentDecisionRecord" : {},
+  "customerBehaviorModel" : "CollectionModel"
+}

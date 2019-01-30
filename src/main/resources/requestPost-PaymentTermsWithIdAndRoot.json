@@ -1,0 +1,11 @@
+{
+  "correspondenceReference" : "CRRR3900",
+  "cardCollectionsPaymentTermsRenegotiationReference" : "CCPR1383",
+  "cardCollectionsPaymentTermsRenegotiationRecord" : {},
+  "cardCollectionsProcessingRecord" : {},
+  "cardCollectionsProcessingReference" : "CCPE5209",
+  "configurationOptions" : "Details",
+  "correspondenceContent" : "Content",
+  "documentReference" : "DRRE3988",
+  "documentContent" : "DocumentCopy"
+}
